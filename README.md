@@ -23,9 +23,9 @@ Este projeto em JavaScript (Node.js) é uma aplicação de linha de comando inte
 
 * Calcula e exibe:
 
-  * **A taxa em reais**
+  * A taxa em reais
 
-  * **O valor final com a taxa aplicada**
+  * O valor final com a taxa aplicada
 
 * Gera um QR Code com base em um link inserido pelo usuário
 
