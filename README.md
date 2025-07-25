@@ -10,25 +10,25 @@ Este projeto em JavaScript (Node.js) é uma aplicação de linha de comando inte
 * 💬 Interação via terminal com entradas dinâmicas
 
 # 🚀 Tecnologias utilizadas
-*prompts – para entrada de dados do usuário com validação
+* prompts – para entrada de dados do usuário com validação
 
-*chalk – para deixar o terminal mais colorido e intuitivo
+* chalk – para deixar o terminal mais colorido e intuitivo
 
-qrcode – para gerar o QR Code a partir de uma URL personalizada
+* qrcode – para gerar o QR Code a partir de uma URL personalizada
 
-Funções organizadas de forma modular para melhor organização e reuso
+* Funções organizadas de forma modular para melhor organização e reuso
 
 # 📦 Funcionalidades
 * Solicita um valor base e um percentual de taxa
 
 * Calcula e exibe:
 
-** A taxa em reais
+*** A taxa em reais
 
-** O valor final com a taxa aplicada
+*** O valor final com a taxa aplicada
 
-Gera um QR Code com base em um link inserido pelo usuário
+* Gera um QR Code com base em um link inserido pelo usuário
 
-Cria uma senha aleatória com letras, números e símbolos
+* Cria uma senha aleatória com letras, números e símbolos
 
-Validação de entrada para garantir valores corretos
+* Validação de entrada para garantir valores corretos
