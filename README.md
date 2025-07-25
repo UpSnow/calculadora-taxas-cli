@@ -10,7 +10,7 @@ Este projeto em JavaScript (Node.js) é uma aplicação de linha de comando inte
 * 💬 Interação via terminal com entradas dinâmicas
 
 # 🚀 Tecnologias utilizadas
-* prompts – para entrada de dados do usuário com validação
+* prompt – para entrada de dados do usuário com validação
 
 * chalk – para deixar o terminal mais colorido e intuitivo
 
